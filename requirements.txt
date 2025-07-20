@@ -1,0 +1,7 @@
+pyannote.audio==3.1.1
+torch>=2.0
+torchaudio
+numpy<2.0
+scikit-learn
+soundfile
+librosa
